@@ -9,8 +9,10 @@
 
 Character flows horizontally with character input and screen tap
 
-![ARBoardMV](mov3.gif "ARBoardMV")
+![ARBoardSK](mov3.gif "ARBoardSK")
 
 ---
 
 ### Extra:<br>ARBoardSK2 - Circular Bulletin Board
+
+![ARBoardSK2　Sushi!](mov4.gif "ARBoardSK2　Sushi!")
