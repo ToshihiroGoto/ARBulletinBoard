@@ -1,11 +1,11 @@
 # ARBulletinBoard - Bulletin Board at ARKit
 
-### ARBoardMV: SKVideoNode + Movie File (SpriteKit Texture)
+### ARBoardMV:<br>SKVideoNode + Movie File (SpriteKit Texture)
 
-### ARBoardUV: Texture U Coordinate Animation
+### ARBoardUV:<br>Texture U Coordinate Animation
 ![ARBoardUV](mov2.gif "ARBoardUV")
 
-### ARBoardSK: SKLabelNode Aniamtion (SpriteKit Texture)
+### ARBoardSK:<br>SKLabelNode Aniamtion (SpriteKit Texture)
 
 Character flows horizontally with character input and screen tap
 
@@ -13,4 +13,4 @@ Character flows horizontally with character input and screen tap
 
 ---
 
-### Extra: ARBoardSK2 - Circular Bulletin Board
+### Extra:<br>ARBoardSK2 - Circular Bulletin Board
