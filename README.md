@@ -6,6 +6,9 @@
 ![ARBoardUV](mov2.gif "ARBoardUV")
 
 ### ARBoardSK: SKLabelNode Aniamtion (SpriteKit Texture)
+
+Character flows horizontally with character input and screen tap
+
 ![ARBoardMV](mov3.gif "ARBoardMV")
 
   
