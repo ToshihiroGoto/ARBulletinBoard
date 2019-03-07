@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:ARBoardMV/ARBoardMV.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ARBoardUV/ARBoardUV.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ARBoardSK/ARBoardSK.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ARBoardSK2/ARBoardSK2.xcodeproj">
+   </FileRef>
+</Workspace>
